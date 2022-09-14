@@ -10,6 +10,5 @@
     <img src="https://www.kindpng.com/picc/m/159-1595848_python-logo-png-transparent-background-python-logo-png.png" alt="python" width="50">
 </p> 
 <hr>
-<p>My Github Stats
     <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=marosaliegayla&show_icons=true&theme=swift" alt="marosaliegayla" />
 </p>
