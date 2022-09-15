@@ -4,8 +4,7 @@
     <hr size="50">
 <p>Welcome to my Github Account. <br> I am <strong>Rosalie</strong>, currently studying to become a Fullstack WebDev from <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="13"> Philippines. </p>
 <p> you can reach me through: </p> 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
-<p> <strong>ma.rosaliegayla@gmail.com</strong> </p>
+<a href="mailto:ma.rosaliegayla@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <h3>I have basic coding knowledge with</h3>
 <p>
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html">
