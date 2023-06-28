@@ -2,7 +2,7 @@
 <p align="center" ><img src="https://64.media.tumblr.com/7a2c8a4e95b83266f60bf8f44e074926/9e53aa2b8d88992a-cc/s400x600/a8fbcb8815eb9df66451d89261a220c2381eb025.gif" width="100"></p>
     <h1 align="center"> Hello there, 👋 Welcome! </h1>
     <hr size="50">
-<p>Welcome to my Github Account. <br> I am <strong>Rosalie</strong>, currently studying to become a Fullstack WebDev from <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="13"> Philippines. </p>
+<p>Welcome to my Github Account. <br> I am <strong>Rosalie</strong>, a Computer Science student from <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="13"> Philippines. </p>
 <p> you can reach me through: </p> 
 <a href="mailto:ma.rosaliegayla@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <h3>I have basic coding knowledge with</h3>
