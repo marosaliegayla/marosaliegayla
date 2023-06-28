@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=marosaliegayla.visitor-badge&left_color=blue&right_color=red&left_text=Visitors)
+![](https://komarev.com/ghpvc/?username=your-github-username)
 <p align="center" ><img src="https://64.media.tumblr.com/7a2c8a4e95b83266f60bf8f44e074926/9e53aa2b8d88992a-cc/s400x600/a8fbcb8815eb9df66451d89261a220c2381eb025.gif" width="100"></p>
     <h1 align="center"> Hello there, 👋 Welcome! </h1>
     <hr size="50">
