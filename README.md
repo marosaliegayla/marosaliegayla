@@ -13,6 +13,3 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
 </p> 
  <hr size="50">
-    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=marosaliegayla&show_icons=true&theme=swift" alt="marosaliegayla" />
-</p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marosaliegayla">
